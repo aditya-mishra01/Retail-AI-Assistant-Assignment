@@ -15,4 +15,4 @@ Retail AI Assistant Assignment for the role of AI Developor
 4. oorders.csv
 5. policy.txt
 6. Architecture.docx
-7. Retail_AI_Assignment.mp4
+
