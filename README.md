@@ -8,7 +8,7 @@ Retail AI Assistant Assignment for the role of AI Developor
 4. For Linux : Export OPENAI_API_KEY=value
 5. Run the agent using : python agent.py
 
-****Files included : **
+**Files included : **
 1. agent.py
 2. tools.py
 3. products.csv
